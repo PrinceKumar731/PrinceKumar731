@@ -2,7 +2,8 @@
 <div align="center">
   <h1>👋 Hi, I'm Prince Kumar</h1>
   <p>
-    Competitive Programmer | Full-Stack Developer | Open-Source Enthusiast
+    Software Engineer & Competitive Programmer<br />
+    Building innovative solutions, solving algorithmic challenges, and crafting engaging web experiences.
   </p>
 
   <!-- BADGES -->
@@ -11,75 +12,123 @@
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/PrinceKumar731?style=social" />
     </a>
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=PrinceKumar731&style=flat-square" />
+    <img alt="Codeforces Rating" src="https://img.shields.io/badge/Codeforces-1596-blue" />
     <img alt="Top Language" src="https://img.shields.io/github/languages/top/PrinceKumar731?color=blue" />
   </p>
 
-  <!-- SOCIAL LINKS -->
+  <!-- LINKS -->
   <p>
-    <a href="mailto:princekumar.email@example.com">📧 Email</a> •
+    <a href="https://portfolio-nu-seven-79.vercel.app/">🌐 Portfolio</a> •
     <a href="https://www.linkedin.com/in/princekumar731">💼 LinkedIn</a> •
     <a href="https://www.codeforces.com/profile/PrinceKumar731">⚡ Codeforces</a> •
-    <a href="https://www.leetcode.com/PrinceKumar731">🧠 LeetCode</a>
+    <a href="mailto:your-email@example.com">📧 Email</a>
   </p>
 </div>
 
 ---
 
-## 🔥 About Me
-- 🎓 Currently learning and building exciting projects in **Web & Backend**
-- 👨‍💻 Competitive Programmer with a strong focus on algorithms
-- 💡 Passionate about Open-Source, clean code & scalable systems
-- 🚀 Always learning and pushing limits
+## 💻 About Me
+A passionate Software Engineer and Competitive Programmer with:
+- 🧠 **1596 Codeforces Specialist** rating
+- 📈 **700+ algorithmic problems solved**
+- 💻 Strong experience in **AI, Web & Full-Stack development**
+- 🤝 Always open to collaboration and new opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-### 💻 Languages
-<img align="left" alt="C++" width="24px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
-<img align="left" alt="JavaScript" width="24px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-<img align="left" alt="HTML" width="24px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
-<img align="left" alt="CSS" width="24px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
+### ⭐ **NewsCasterAI**
+An AI-powered news automation platform:
+- Generates scripts using Google Gemini
+- Adds speech & visuals
+- Publishes ready-to-upload videos
 
-<br />
+**Tech:** Python, Google Gemini, TTS, Computer Vision  
+🔗 [View Code](#)
 
-### 🛠️ Frameworks & Tools
-<img align="left" alt="React" width="24px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-<img align="left" alt="Node.js" width="24px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express.js" width="24px" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" />
-<img align="left" alt="MongoDB" width="24px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />
+### ♟️ **Browser Chess Game**
+A fully responsive chess game with:
+- Move tracking
+- Timers
+- Smooth UI
 
-<br />
+**Tech:** JavaScript, HTML5, CSS3  
+🔗 [View Code](#)
+
+### 🏥 **MedX Healthcare Platform**
+A team-built healthcare management system with:
+- Appointment scheduling
+- Patient records
+
+**Tech:** Python, Flask/Django  
+🔗 [View Code](#)
+
+### ☁️ **Weather Application**
+Clean UI weather app with real-time data.
+
+**Tech:** C++, Weather API, Data Visualization  
+🔗 [View Code](#)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Coding Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrinceKumar731&show_icons=true&theme=tokyonight" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=PrinceKumar731&theme=tokyonight&show_icons=true" />
+
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceKumar731&theme=tokyonight" />
 </div>
 
 ---
 
-## 💡 Projects
+## 🛠️ Tech Stack
 
-| Project | Description | Live | Code |
-|---------|-------------|------|------|
-| **Portfolio Website** | Personal portfolio built with React and TailwindCSS | 🌐 | 🔗 |
-| **E-Commerce Backend** | Scalable REST API with Node.js & MongoDB | ❗️ | 🔗 |
-| **CP Solutions** | Competitive programming problem solutions (C++) | 📁 | GitHub |
+### 🧠 Languages
+Python • C++ • JavaScript • Java • SQL • HTML • CSS
 
-> ✨ I can add links and deploy live versions once you share them
+### 🌐 Web Development
+React • Node.js • Flask • Django • REST APIs • MongoDB
 
----
+### 📊 Algorithms & DS
+Dynamic Programming • Graphs • Trees • Greedy • Sorting
 
-## 🤝 Open-Source Contributions
-✨ Always open to contributing to awesome open-source projects.  
-If you’re looking for contributions, let’s connect!
+### 🧰 Tools
+Git • Docker • Linux • VS Code • Jupyter
 
 ---
 
-## 📝 Fun Facts
-- 🎯 Always learning new data structures & algorithms
-- 📚 Read tech blogs & watch coding sessions
-- ☕ Big fan of productivity playlists 😄
+## 🌟 Achievements
+
+- 🏆 **Codeforces Specialist** — consistent performance in rated contests
+- 🧩 **700+ problems solved** on different judges
+- 🏁 **50+ rated contests**, mastering DS & Algorithms
+
+---
+
+## 📈 Interactive Visuals
+
+**Live Portfolio Snapshot**
+
+![Portfolio Screenshot](https://portfolio-nu-seven-79.vercel.app/api/og)
+
+---
+
+## 📬 Get In Touch
+
+I'm always open to discussing:
+- New Projects
+- Collaboration
+- Career Opportunities
+
+📨 **Email:** your-email@example.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/princekumar731
+
+---
+
+<div align="center">
+  Thanks for stopping by! 👋  
+  <sub>Designed & built with passion and code.</sub>
+</div>
