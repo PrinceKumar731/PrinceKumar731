@@ -91,9 +91,6 @@ const princeKumar = {
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,java,react,nodejs,flask,django,mongodb,docker,git,linux,html,css,vscode&perline=8" />
-
 </div>
 
 ---
