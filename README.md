@@ -52,11 +52,6 @@ const princeKumar = {
 
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceKumar731&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="170"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrinceKumar731&theme=radical&utcOffset=5.5" alt="Productive Time" height="170"/>
-</div>
-
 ---
 
 ## 🏆 Competitive Programming
@@ -67,10 +62,7 @@ const princeKumar = {
 <img src="https://img.shields.io/badge/Rank-Specialist-cyan?style=for-the-badge&logo=codeforces&logoColor=white" />
 <img src="https://img.shields.io/badge/Problems-700+-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
 <img src="https://img.shields.io/badge/Contests-50+-orange?style=for-the-badge&logo=codeforces&logoColor=white" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrinceKumar731&bg_color=0d1117&color=00ff88&line=00ccff&point=ff0066&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+<br>
 
 </div>
 
@@ -106,28 +98,6 @@ const princeKumar = {
 
 ---
 
-## 🏅 Achievements
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=PrinceKumar731&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophy" />
-</a>
-
-</div>
-
----
-
-## 📈 Profile Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrinceKumar731&theme=radical" alt="Profile Summary" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -154,18 +124,4 @@ const princeKumar = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PrinceKumar731&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
 
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Show some love by starring repositories!
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=00FF88&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Footer" />
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
 </div>
