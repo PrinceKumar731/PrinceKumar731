@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Prince Kumar
+# Prince Kumar
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%8F%86;AI+%26+Full+Stack+Developer+%F0%9F%92%BB;Codeforces+Specialist+%E2%AD%90;700%2B+Problems+Solved+%F0%9F%A7%A9" alt="Typing SVG" />
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```javascript
 const princeKumar = {
@@ -43,7 +43,7 @@ const princeKumar = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   
@@ -67,7 +67,7 @@ const princeKumar = {
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -94,21 +94,7 @@ const princeKumar = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrinceKumar731/PrinceKumar731/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrinceKumar731/PrinceKumar731/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PrinceKumar731/PrinceKumar731/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
 
