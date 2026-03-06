@@ -47,7 +47,7 @@ const princeKumar = {
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=PrinceKumar731&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00CCFF&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceKumar731&theme=radical&hide_border=true&background=0D1117&stroke=00FF88&ring=00CCFF&fire=FF0066&currStreakLabel=00FF88" alt="GitHub Streak" height="170"/>
 
 </div>
 
