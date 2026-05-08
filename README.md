@@ -2,8 +2,6 @@
 
 # Prince Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%8F%86;AI+%26+Full+Stack+Developer+%F0%9F%92%BB;Codeforces+Specialist+%E2%AD%90;700%2B+Problems+Solved+%F0%9F%A7%A9" alt="Typing SVG" />
-
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princekumar240222)
@@ -53,7 +51,7 @@ const princeKumar = {
 
 ---
 
-## 🏆 Competitive Programming
+## Competitive Programming
 
 <div align="center">
 
