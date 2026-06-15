@@ -1,6 +1,7 @@
+<h1 align="left">Hi, I'm Prince</h1>
+
 <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRoZTZxY3d4c2NscDQ3b2FoYWZzZ3Iwangzcnd6anNqdnk5cDN1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cswZEvNJM7ZK/giphy.gif" width="350" alt="Animated GIF" />
 
-<h1 align="left">Hi, I'm Prince</h1>
 <h3 align="left">A Second year Computer Science student at AIT Pune</h3>
 
 💻 Check out my [developer portfolio website!](https://portfolio-nu-seven-79.vercel.app/)
