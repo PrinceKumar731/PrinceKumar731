@@ -1,107 +1,15 @@
-<div align="center">
+<h1 align="left">Hi, I'm Prince</h1>
+<h3 align="left">A Second year Computer Science student at AIT Pune</h3>
 
-# Prince Kumar
+💻 Check out my [developer portfolio website!](https://portfolio-nu-seven-79.vercel.app/)
 
-<br>
+🤘 I’m currently working on [**RedStone (Local Aternos)**](https://github.com/PrinceKumar731/RedStone)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princekumar240222)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ayanakoji_death)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrinceKumar731)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prince@example.com)
+💼 Previously worked @ [Jilo Health]
 
-</div>
+🌃  About: Competitive Programmer, Otaku 
 
----
+✉️ Reach me at: **prince800201@gmail.com**
 
-## About Me
-
-```javascript
-const princeKumar = {
-    role: "Software Engineer & Competitive Programmer",
-    location: "India 🇮🇳",
-    education: "Computer Science Engineering",
-    
-    skills: {
-        languages: ["Python", "C++", "JavaScript", "Java", "SQL"],
-        webDev: ["React", "Node.js", "Flask", "Django", "MongoDB"],
-        aiML: ["Google Gemini", "TTS", "Computer Vision"],
-        tools: ["Git", "Docker", "Linux", "VS Code"]
-    },
-    
-    competitive: {
-        codeforcesRating: 1596,
-        rank: "Specialist ⭐",
-        problemsSolved: "700+",
-        contests: "50+"
-    },
-    
-    currentFocus: "Building innovative AI solutions & mastering algorithms 🎯"
-};
-```
-
----
-
-## GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinceKumar731&theme=radical&hide_border=true&background=0D1117&stroke=00FF88&ring=00CCFF&fire=FF0066&currStreakLabel=00FF88" alt="GitHub Streak" height="170"/>
-
-</div>
-
----
-
-## Competitive Programming
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Rating-1596-cyan?style=for-the-badge&logo=codeforces&logoColor=white" />
-<img src="https://img.shields.io/badge/Rank-Specialist-cyan?style=for-the-badge&logo=codeforces&logoColor=white" />
-<img src="https://img.shields.io/badge/Problems-700+-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Contests-50+-orange?style=for-the-badge&logo=codeforces&logoColor=white" />
-<br>
-
-</div>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<br>
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/princekumar240222)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Challenge-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/ayanakoji_death)
-[![Email](https://img.shields.io/badge/Email-Send%20Message-D14836?style=for-the-badge&logo=gmail)](mailto:prince@example.com)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=PrinceKumar731&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
+<p align="left">
+</p>
