@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="320" src="[YOUR_GIF_URL](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRoZTZxY3d4c2NscDQ3b2FoYWZzZ3Iwangzcnd6anNqdnk5cDN1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cswZEvNJM7ZK/giphy.gif)">
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRoZTZxY3d4c2NscDQ3b2FoYWZzZ3Iwangzcnd6anNqdnk5cDN1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13cswZEvNJM7ZK/giphy.gif" width="350" alt="Animated GIF" />
 
 <h1 align="left">Hi, I'm Prince</h1>
 <h3 align="left">A Second year Computer Science student at AIT Pune</h3>
@@ -7,11 +7,10 @@
 
 🤘 I’m currently working on [**RedStone (Local Aternos)**](https://github.com/PrinceKumar731/RedStone)
 
-💼 Previously worked @ [Jilo Health]
+💼 Previously worked @ **Jilo Health**
 
-🌃  About: Competitive Programmer, Otaku 
+🌃 About: Competitive Programmer, Otaku 
 
 ✉️ Reach me at: **prince800201@gmail.com**
 
-<p align="left">
-</p>
+<br clear="both">
