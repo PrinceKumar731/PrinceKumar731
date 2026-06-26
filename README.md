@@ -4,7 +4,7 @@
 
 <h3 align="left">A Second year Computer Science student at AIT Pune</h3>
 
-💻 Check out my [developer portfolio website!](https://portfolio-nu-seven-79.vercel.app/)
+💻 Check out my [developer portfolio website!](https://bit.ly/4f45INY)
 
 🤘 I’m currently working on [**RedStone (Local Aternos)**](https://github.com/PrinceKumar731/RedStone)
 
