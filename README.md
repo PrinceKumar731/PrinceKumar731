@@ -8,7 +8,7 @@
 
 🤘 I’m currently working on [**RedStone (Local Aternos)**](https://github.com/PrinceKumar731/RedStone)
 
-💼 Previously worked @ **Jilo Health**
+💼 Previously worked @**Jilo Health**
 
 🌃 About: Competitive Programmer, Otaku 
 
